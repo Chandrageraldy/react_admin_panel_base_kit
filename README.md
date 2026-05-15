@@ -1,4 +1,4 @@
-# React Admin Panel Base Kit
+# Court Lab Admin Portal
 
 A production-ready React + Supabase admin panel starter template. Clone it, wire up your Supabase project, and start building your features — the auth, layout, routing, and data-access patterns are already in place.
 
