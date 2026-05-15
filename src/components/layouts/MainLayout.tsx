@@ -160,7 +160,7 @@ const MainLayout = ({ children }: { children: React.ReactNode }) => {
             </div>
             <span className="font-bold text-gray-900 text-sm">
               {/* ✏️ Change "My Admin" to your app name */}
-              Court Lab Admin Portal
+              My Admin
             </span>
           </div>
         </div>

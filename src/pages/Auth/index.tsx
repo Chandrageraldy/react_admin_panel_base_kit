@@ -73,7 +73,7 @@ export default function AuthPage() {
               <span className="text-white font-bold text-lg">A</span>
             </div>
             {/* ✏️ Change "My Admin" to your app name */}
-            <span className="text-2xl font-bold text-gray-900">Court Lab Admin Portal</span>
+            <span className="text-2xl font-bold text-gray-900">My Admin</span>
           </div>
         </div>
 
